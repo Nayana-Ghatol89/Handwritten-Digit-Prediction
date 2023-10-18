@@ -1,2 +1,1 @@
-# Movie-recommendation-system
-recommends movie
+predicts hand written digits
